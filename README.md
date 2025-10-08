@@ -92,10 +92,7 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
   </tr>
 </table>
 
-<!-- Contribution Details -->
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priya394&theme=tokyonight" alt="summary"/>
-</p>
+
 
 
 ---
