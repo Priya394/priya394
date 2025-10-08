@@ -97,10 +97,6 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priya394&theme=tokyonight" alt="summary"/>
 </p>
 
-<!-- Optional: Activity Graph (needs GH token on newer forks sometimes) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priya394&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
 
 ---
 
@@ -179,23 +175,7 @@ Update the repo links (owner/repo) and badges accordingly.
 
 ---
 
-<h2 align="center">🎧 Now Playing</h2>
 
-<p align="center">
-  <!-- Replace YOUR_SPOTIFY_USER_ID with your Spotify user id -->
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/now-playing?u=YOUR_SPOTIFY_USER_ID&theme=default" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Goodies</h2>
-
-<p align="center">
-  <!-- Contribution Snake (enable GH Actions on repo 'output' branch of your profile repo or keep this hosted one) -->
-  <img src="https://github.com/priya394/priya394/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 
 <!-- Wave Footer -->
 <p align="center">
