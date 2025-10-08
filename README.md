@@ -85,11 +85,7 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=priya394&theme=tokyonight&hide_border=true" alt="streak"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=priya394&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true" alt="trophies"/>
-    </td>
-  </tr>
+ 
 </table>
 
 
