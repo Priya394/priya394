@@ -93,20 +93,3 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
 
 
 
-<h2 align="center">📝 Latest Blog Posts</h2>
-
-<!-- RSS to Cards: use actions to auto-update (blog-post-workflow) -->
-<!-- Replace with your blog/RSS if you have one -->
-<!--
-- <a href="YOUR_POST_URL" target="_blank">Title A</a> — short blurb
-- <a href="YOUR_POST_URL" target="_blank">Title B</a> — short blurb
--->
-
----
-
-
-
-<!-- Wave Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,100:0a0f1e"/>
-</p>
