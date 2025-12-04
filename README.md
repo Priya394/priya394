@@ -91,71 +91,7 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
 
 
 
----
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-<!--
-Replace the examples below with your own repositories.
-Update the repo links (owner/repo) and badges accordingly.
--->
-
-<!-- Example Project 1 -->
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h3>🎮 Project One Title</h3>
-      <p>Short description of what the project does and what you’re focusing on.</p>
-      <p>
-        <a href="https://github.com/priya394/REPOSITORY_NAME_1" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Tech1-111827?style=for-the-badge&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tech2-111827?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-    <td width="35%">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="preview" />
-    </td>
-  </tr>
-</table>
-
-<!-- Example Project 2 -->
-<table width="100%">
-  <tr>
-    <td width="35%">
-      <img src="https://i.imgur.com/t2oJtR7.gif" alt="Project GIF (placeholder)" width="100%">
-    </td>
-    <td width="65%" valign="top">
-      <h3>🧭 Project Two Title</h3>
-      <p>Short description and roadmap.</p>
-      <p>
-        <a href="https://github.com/priya394/REPOSITORY_NAME_2" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repository-111827?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-        <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-        <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- Pinned repo cards (update repo names) -->
-<p align="center">
-  <a href="https://github.com/priya394/REPOSITORY_NAME_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priya394&repo=REPOSITORY_NAME_1&theme=tokyonight&hide_border=true"/>
-  </a>
-  <a href="https://github.com/priya394/REPOSITORY_NAME_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priya394&repo=REPOSITORY_NAME_2&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
 
 <h2 align="center">📝 Latest Blog Posts</h2>
 
